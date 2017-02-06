@@ -1,2 +1,2 @@
-# coursera-AngularJS-SingleWebApplicaton Course
+# Coursera-AngularJS-SingleWebApplicaton Course
 From the Single Web Application coursera course. 
